@@ -10,9 +10,6 @@ joblib
 lazy-object-proxy==1.4.3
 MarkupSafe 
 mccabe==0.6.1
-mkl-fft
-mkl-random
-mkl-service
 numpy==1.18.5
 pylint==2.6.0
 scikit-learn==0.23.2
