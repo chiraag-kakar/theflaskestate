@@ -6,9 +6,9 @@ gunicorn==20.0.4
 isort==5.4.2
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+joblib
 lazy-object-proxy==1.4.3
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+MarkupSafe 
 mccabe==0.6.1
 mkl-fft==1.1.0
 mkl-random==1.1.1
@@ -16,9 +16,9 @@ mkl-service==2.3.0
 numpy==1.18.5
 pylint==2.6.0
 scikit-learn==0.23.2
-scipy @ file:///C:/ci/scipy_1592916958183/work
+scipy
 six==1.15.0
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+threadpoolctl
 toml==0.10.1
 typed-ast==1.4.1
 Werkzeug==1.0.1
